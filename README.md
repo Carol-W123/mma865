@@ -1,2 +1,2 @@
 # mma865
-heriku
+heroku
